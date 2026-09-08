@@ -1,4 +1,4 @@
-# 🎵 MusicFy
+# 🎵 MusicLy
 
 Musicly is an iOS music discovery app built with **SwiftUI**. It provides a clean and modern way to discover music, browse albums, singles, and EPs, view detailed song information, and play songs through an embedded YouTube player.
 
