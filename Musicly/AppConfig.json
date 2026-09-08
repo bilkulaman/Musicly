@@ -1,0 +1,4 @@
+{
+    "youtubeBaseURL":"https://www.youtube.com/embed/",
+    "youtubeSearchURL":"https://www.googleapis.com/youtube/v3/search"
+}
