@@ -16,7 +16,7 @@ struct HomeView:View{
                     HStack{
                         Image(systemName: "music.note")
                             .font(.system(size: 30))
-                        Text("MusicFy")
+                        Text("MusicLy")
                             .font(.system(size: 35))
                             .bold()
                             .frame(maxWidth: .infinity, alignment: .leading)
